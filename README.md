@@ -174,19 +174,6 @@ You can download the PDF and Epub version of this repository from the latest run
 |138| [How to get history on React Router v4?](#how-to-get-history-on-react-router-v4) |
 |139| [How to perform automatic redirect after login?](#how-to-perform-automatic-redirect-after-login) |
 |   | **React Internationalization** |
-|140| [What is React-Intl?](#what-is-react-intl) |
-|141| [What are the main features of React Intl?](#what-are-the-main-features-of-react-intl) |
-|142| [What are the two ways of formatting in React Intl?](#what-are-the-two-ways-of-formatting-in-react-intl) |
-|143| [How to use FormattedMessage as placeholder using React Intl?](#how-to-use-formattedmessage-as-placeholder-using-react-intl) |
-|144| [How to access current locale with React Intl](#how-to-access-current-locale-with-react-intl) |
-|145| [How to format date using React Intl?](#how-to-format-date-using-react-intl) |
-|   | **React Testing** |
-|146| [What is Shallow Renderer in React testing?](#what-is-shallow-renderer-in-react-testing) |
-|147| [What is TestRenderer package in React?](#what-is-testrenderer-package-in-react) |
-|148| [What is the purpose of ReactTestUtils package?](#what-is-the-purpose-of-reacttestutils-package) |
-|149| [What is Jest?](#what-is-jest) |
-|150| [What are the advantages of Jest over Jasmine?](#what-are-the-advantages-of-jest-over-jasmine) |
-|151| [Give a simple example of Jest test case](#give-a-simple-example-of-jest-test-case) |
 |   | **React Redux** |
 |152| [What is Flux?](#what-is-flux) |
 |153| [What is Redux?](#what-is-redux) |
@@ -225,26 +212,6 @@ You can download the PDF and Epub version of this repository from the latest run
 |186| [How to set initial state in Redux?](#how-to-set-initial-state-in-redux) |
 |187| [How Relay is different from Redux?](#how-relay-is-different-from-redux) |
 |188| [What is an action in Redux?](#what-is-an-action-in-redux) |
-|   | **React Native** |
-|188| [What is the difference between React Native and React?](#what-is-the-difference-between-react-native-and-react) |
-|189| [How to test React Native apps?](#how-to-test-react-native-apps) |
-|190| [How to do logging in React Native?](#how-to-do-logging-in-react-native) |
-|191| [How to debug your React Native?](#how-to-debug-your-react-native) |
-|   | **React supported libraries and Integration** |
-|192| [What is reselect and how it works?](#what-is-reselect-and-how-it-works) |
-|193| [What is Flow?](#what-is-flow) |
-|194| [What is the difference between Flow and PropTypes?](#what-is-the-difference-between-flow-and-proptypes) |
-|195| [How to use font-awesome icons in React?](#how-to-use-font-awesome-icons-in-react) |
-|196| [What is React Dev Tools?](#what-is-react-dev-tools) |
-|197| [Why is DevTools not loading in Chrome for local files?](#why-is-devtools-not-loading-in-chrome-for-local-files) |
-|198| [How to use Polymer in React?](#how-to-use-polymer-in-react) |
-|199| [What are the advantages of React over Vue.js?](#what-are-the-advantages-of-react-over-vuejs) |
-|200| [What is the difference between React and Angular?](#what-is-the-difference-between-react-and-angular) |
-|201| [Why React tab is not showing up in DevTools?](#why-react-tab-is-not-showing-up-in-devtools) |
-|202| [What are styled components?](#what-are-styled-components) |
-|203| [Give an example of Styled Components?](#give-an-example-of-styled-components) |
-|204| [What is Relay?](#what-is-relay) |
-|205| [How to use TypeScript in create-react-app application?](#how-to-use-typescript-in-create-react-app-application) |
 |   | **Miscellaneous** |
 |206| [What are the main features of reselect library?](#what-are-the-main-features-of-reselect-library) |
 |207| [Give an example of reselect usage?](#give-an-example-of-reselect-usage) |
